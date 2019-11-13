@@ -19,11 +19,12 @@ output: html_document
 
 # **LIDD coding**
 
-This website provides additional information related to the LIDD coding platform. You can get direct access to questionnaires, definitions of key instruments and other relevant documentation here. 
+This website provides additional information related to the LIDD coding platform. You can get direct access to supporting documentation such as:
+the list of questionnaires per instrument, core working definitions and additional documentation here. 
 
 ## How to use
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. See Support Documents tab for further information regarding. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
 
 2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
 
