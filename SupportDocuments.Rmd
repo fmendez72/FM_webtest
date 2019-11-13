@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Links
 1. [View questionnaire with list of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
 
-2. [View support documentation with explanations/definitions of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
+2. <a href="https://fmendez72.github.io/FM_webtest/Liddpages/lawInitiatedDefinitions.html" target="_blank">View support documentation with explanations/definitions of items</a>
 <br/><br/>
 
 # Executive-initiated referendum
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Links
 1. [View questionnaire with list of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
 
-2. [View support documentation with explanations/definitions of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
+2. <a href="https://fmendez72.github.io/FM_webtest/Liddpages/lawInitiatedDefinitions.html" target="_blank">View support documentation with explanations/definitions of items</a>
 <br/><br/>
 
 # Legislative-initiated referendum
@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Links
 1. [View questionnaire with list of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
 
-2. [View support documentation with explanations/definitions of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
+2. <a href="https://fmendez72.github.io/FM_webtest/Liddpages/lawInitiatedDefinitions.html" target="_blank">View support documentation with explanations/definitions of items</a>
 <br/><br/>
 
 # Subnational-initiated referendum
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Links
 1. [View questionnaire with list of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
 
-2. [View support documentation with explanations/definitions of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
+2. <a href="https://fmendez72.github.io/FM_webtest/Liddpages/lawInitiatedDefinitions.html" target="_blank">View support documentation with explanations/definitions of items</a>
 <br/><br/>
 
 
@@ -67,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Links
 1. [View questionnaire with list of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
 
-2. [View support documentation with explanations/definitions of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
+2. <a href="https://fmendez72.github.io/FM_webtest/Liddpages/lawInitiatedDefinitions.html" target="_blank">View support documentation with explanations/definitions of items</a>
 <br/><br/>
 
 
@@ -86,5 +86,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Links
 1. [View questionnaire with list of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
 
-2. <a href="https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html" target="_blank">View support documentation with explanations/definitions of items</a>
+2. <a href="https://fmendez72.github.io/FM_webtest/Liddpages/lawInitiatedDefinitions.html" target="_blank">View support documentation with explanations/definitions of items</a>
 
