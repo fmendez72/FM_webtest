@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Links
 1. [View questionnaire with list of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
 
-2. [View support documentation with explanations/definitions of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
+2. [View support documentation with explanations/definitions of items](https://fmendez72.github.io/FM_webtest/Liddpages/lawInitiatedDefinitions.html)
 <br/><br/>
 
 # Citizens' Agenda Initiative
@@ -86,4 +86,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Links
 1. [View questionnaire with list of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
 
-2. [View support documentation with explanations/definitions of items](https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html)
+2. <a href="https://fmendez72.github.io/FM_webtest/Liddpages/ConceptualMap.html" target="_blank">View support documentation with explanations/definitions of items</a>
+
