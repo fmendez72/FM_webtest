@@ -36,7 +36,7 @@ the list of questionnaires per instrument, core working definitions and addition
 
 ### [Popular Sovereignty vs. the Rule of Law? Defining the Limits of Direct Democracy (LIDD)](https://www.ivr.uzh.ch/en/institutsmitglieder/moeckli/Research-project-LIDD.html)
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+<a href = "https://fmendez72.github.io/FM_webtest/">
+![](images/lidd2.png)
 </a>
 </div>
