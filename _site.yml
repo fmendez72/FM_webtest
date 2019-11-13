@@ -1,6 +1,6 @@
-name: "Fernando's test webpages"
+name: "Fernando's webpages"
 navbar:
-  title: "Fernando's test webpages"
+  title: "Fernando's webpages"
   left:
     - text: "Home"
       href: index.html
