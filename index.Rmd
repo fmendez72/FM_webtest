@@ -19,7 +19,7 @@ output: html_document
 
 # **LIDD coding**
 
-This website provides additional information related to the LIDD coding platform. You can get direct access to supporting documentation such as:
+This test website provides additional information related to the LIDD coding platform. You can get direct access to supporting documentation such as:
 the list of questionnaires per instrument, core working definitions and additional documentation here. 
 
 ## How to use
